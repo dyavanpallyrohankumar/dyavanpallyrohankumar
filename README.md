@@ -16,7 +16,7 @@
 
 > **Inventor, Engineer, Dreamer, and Builder of the Impossible.**
 
-I’m a final-year CSE student at JNTUH College of Engineering and a Software Developer Intern at Infosys, on a relentless mission to transform ideas into jaw-dropping digital experiences. 
+I’m a Software Developer Intern at Infosys, on a relentless mission to transform ideas into jaw-dropping digital experiences. 
 
 From full-stack wizardry to CI/CD automation, I’m constantly leveling up, building platforms that run campus operations, chat viewers that respect privacy, and search tools that make data dance. 
 
