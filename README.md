@@ -99,5 +99,5 @@ Let’s connect and build something extraordinary!
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Galaxy!;Full-stack+developer+in+action...;Always+learning,+always+building!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Galaxy!;Full-stack+developer+in+action...;Always+learning,+always+building!&center=true&width=400&height=45">
 </p>
