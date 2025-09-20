@@ -8,8 +8,8 @@
 <p align="center">
   <a href="mailto:dyavanpallyrohankumar@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail"></a>
   <a href="https://github.com/dyavanpallyrohankumar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"></a>
-  <a href="https://www.linkedin.com/in/dyavanpallyrohankumar/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=linkedin"></a>
-  <a href="https://leetcode.com/u/Rohankumar_D/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=leetcode"></a>
+  <a href="https://www.linkedin.com/in/dyavanpallyrohankumar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://leetcode.com/u/Rohankumar_D/"><img src="https://img.shields.io/badge/Leetcode-blue?style=flat&logo=leetcode"></a>
 </p>
 
 ---
